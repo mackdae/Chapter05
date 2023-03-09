@@ -2,10 +2,11 @@
 
 namespace p149IfElse
 {
-    class Program
+    class MainApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("GitHubTest");
         }
     }
 }
