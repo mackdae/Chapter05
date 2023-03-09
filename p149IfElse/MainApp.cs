@@ -7,6 +7,8 @@ namespace p149IfElse
         static void Main(string[] args)
         {
             Console.WriteLine("GitHubTest");
+            Console.WriteLine("GitHubTest2");
+
         }
     }
 }
