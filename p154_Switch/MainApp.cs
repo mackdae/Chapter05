@@ -10,7 +10,7 @@ namespace p154Switch
 
             Console.Write("요일을 입력하세요.(일,월,화,수,목,금,토) : ");
             string day = Console.ReadLine();
-            int aaa = 1; // case whe 예시용 아무변수
+            int aaa = 1; // case when 예시용 아무변수
 
             switch (day)
             {
@@ -18,10 +18,10 @@ namespace p154Switch
                     Console.WriteLine("Sunday");
                     break; // 점프문
                 case "월":
-                    if (aaa > 1) Console.WriteLine("1_Monday"); // case when 대신 if
+                    if (aaa == 1) Console.WriteLine("1_Monday"); // case when 대신 if
                     else Console.WriteLine("2_Monday");
                     break;
-                case "화" when (aaa > 1): // case when 예시
+                case "화" when (aaa == 1): // case when 예시
                     Console.WriteLine("1_Tuesday");
                     break;
                 case "화":
