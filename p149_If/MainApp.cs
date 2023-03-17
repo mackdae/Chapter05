@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace p149IfElse
+namespace p149_If
 {
     class MainApp
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace p154Switch
+namespace p154_Switch
 {
     class MainApp
     {

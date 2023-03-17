@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{55DAB64B-4519-41F8-B84B-3069457AE1A4}</ProjectGuid>
+    <ProjectGuid>{EF474E05-24CD-41F9-8E75-D7586F83CCD3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>p149IfElse</RootNamespace>
-    <AssemblyName>p149IfElse</AssemblyName>
+    <RootNamespace>p177_Continue</RootNamespace>
+    <AssemblyName>p177_Continue</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

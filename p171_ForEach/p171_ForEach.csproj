@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7EFD01CC-3FAE-46CB-97FB-8ACC3367E184}</ProjectGuid>
+    <ProjectGuid>{B60AA0AB-F1CC-4385-9E9C-7D679089DEEC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>p154Switch</RootNamespace>
-    <AssemblyName>p154Switch</AssemblyName>
+    <RootNamespace>p171_ForEach</RootNamespace>
+    <AssemblyName>p171_ForEach</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

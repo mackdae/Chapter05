@@ -2,7 +2,7 @@
 
 namespace p168_For
 {
-    class Program
+    class MainApp
     {
         static void Main(string[] args)
         {

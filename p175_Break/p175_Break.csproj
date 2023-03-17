@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{24E3FDE7-5823-44D3-8A1F-90C7CBA348BB}</ProjectGuid>
+    <ProjectGuid>{636E6B37-F836-4761-AF4F-1E013D46AEE7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>p149If</RootNamespace>
-    <AssemblyName>p149If</AssemblyName>
+    <RootNamespace>p175_Break</RootNamespace>
+    <AssemblyName>p175_Break</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
